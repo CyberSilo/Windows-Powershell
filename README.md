@@ -1,4 +1,4 @@
-<h1>SFC (system file checker tool)</h1>
+<h1>SFC (System File Checker Tool)</h1>
 
 <h2>Description</h2>
 Project consist of running a simple command in Windows Powershell in order to check for corrupted files and restore them. You might use this command when Windows seems to crash constantly or functions aren't working properly. 
